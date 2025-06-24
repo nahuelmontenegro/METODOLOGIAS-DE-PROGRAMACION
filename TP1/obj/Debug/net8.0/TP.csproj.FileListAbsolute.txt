@@ -1,0 +1,14 @@
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP\TP\obj\Debug\net8.0\TP.GeneratedMSBuildEditorConfig.editorconfig
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP\TP\obj\Debug\net8.0\TP.AssemblyInfoInputs.cache
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP\TP\obj\Debug\net8.0\TP.AssemblyInfo.cs
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP\TP\obj\Debug\net8.0\TP.csproj.CoreCompileInputs.cache
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP\TP\bin\Debug\net8.0\TP.exe
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP\TP\bin\Debug\net8.0\TP.deps.json
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP\TP\bin\Debug\net8.0\TP.runtimeconfig.json
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP\TP\bin\Debug\net8.0\TP.dll
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP\TP\bin\Debug\net8.0\TP.pdb
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP\TP\obj\Debug\net8.0\TP.dll
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP\TP\obj\Debug\net8.0\refint\TP.dll
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP\TP\obj\Debug\net8.0\TP.pdb
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP\TP\obj\Debug\net8.0\TP.genruntimeconfig.cache
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP\TP\obj\Debug\net8.0\ref\TP.dll

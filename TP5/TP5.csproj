@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<!-- Deshabilitar la advertencia CS8618 NULL -->
+    <NoWarn>CS8618</NoWarn>
+	<NoWarn>CS8602;CS8603</NoWarn>
+	<Nullable>disable</Nullable>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP\\TP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp\\tp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp\\tp\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP.csproj|solutionrelative:pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp\\tp\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP.csproj|solutionrelative:persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp\\tp\\numero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP.csproj|solutionrelative:numero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp\\tp\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp\\tp\\icoleccionable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP.csproj|solutionrelative:icoleccionable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp\\tp\\icomparable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP.csproj|solutionrelative:icomparable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp\\tp\\coleccionmultiple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP.csproj|solutionrelative:coleccionmultiple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp\\tp\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP.csproj|solutionrelative:cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp\\tp\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP.csproj|solutionrelative:alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP\\TP\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP\\TP\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowE8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:07:52.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pila.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP\\TP\\Pila.cs",
+              "RelativeDocumentMoniker": "Pila.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP\\TP\\Pila.cs",
+              "RelativeToolTip": "Pila.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:00:16.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IColeccionable.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP\\TP\\IColeccionable.cs",
+              "RelativeDocumentMoniker": "IColeccionable.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP\\TP\\IColeccionable.cs",
+              "RelativeToolTip": "IColeccionable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:51:52.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Numero.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP\\TP\\Numero.cs",
+              "RelativeDocumentMoniker": "Numero.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP\\TP\\Numero.cs",
+              "RelativeToolTip": "Numero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:52:00.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IComparable.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP\\TP\\IComparable.cs",
+              "RelativeDocumentMoniker": "IComparable.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP\\TP\\IComparable.cs",
+              "RelativeToolTip": "IComparable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:31:57.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP\\TP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP\\TP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:24:48.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP\\TP\\Alumno.cs",
+              "RelativeDocumentMoniker": "Alumno.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP\\TP\\Alumno.cs",
+              "RelativeToolTip": "Alumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T14:34:06.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ColeccionMultiple.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP\\TP\\ColeccionMultiple.cs",
+              "RelativeDocumentMoniker": "ColeccionMultiple.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP\\TP\\ColeccionMultiple.cs",
+              "RelativeToolTip": "ColeccionMultiple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:49:37.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cola.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP\\TP\\Cola.cs",
+              "RelativeDocumentMoniker": "Cola.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP\\TP\\Cola.cs",
+              "RelativeToolTip": "Cola.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:00:21.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP\\TP\\Persona.cs",
+              "RelativeDocumentMoniker": "Persona.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP\\TP\\Persona.cs",
+              "RelativeToolTip": "Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:42:28.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

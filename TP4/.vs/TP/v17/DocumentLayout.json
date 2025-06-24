@@ -1,0 +1,899 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patronstrategy\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patronstrategy\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\generadorrandom\\generadordedatosaleatorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:generadorrandom\\generadordedatosaleatorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\generadorrandom\\generar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:generadorrandom\\generar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\generadorrandom\\lecturadedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:generadorrandom\\lecturadedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\generadorrandom\\igenerador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:generadorrandom\\igenerador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patrondecorator\\decoradolegajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patrondecorator\\decoradolegajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patrondecorator\\decoradonotasenletras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patrondecorator\\decoradonotasenletras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patrondecorator\\decoradorecuadroasteriscos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patrondecorator\\decoradorecuadroasteriscos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patrondecorator\\decoradopromocion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patrondecorator\\decoradopromocion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patrondecorator\\iimprimirdec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patrondecorator\\iimprimirdec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patrondecorator\\absdecoradoresadicionales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patrondecorator\\absdecoradoresadicionales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patronstrategy\\istrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patronstrategy\\istrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patronstrategy\\estrategiacomparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patronstrategy\\estrategiacomparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patronobserver\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patronobserver\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patronobserver\\iobservador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patronobserver\\iobservador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patronobserver\\iobservado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patronobserver\\iobservado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patronobserver\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patronobserver\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patroniterator\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patroniterator\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patroniterator\\iiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patroniterator\\iiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patroniterator\\createiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patroniterator\\createiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patroniterator\\concreteiteratorpila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patroniterator\\concreteiteratorpila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patroniterator\\concreteiteratordiccionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patroniterator\\concreteiteratordiccionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patroniterator\\concreteiteratorconjunto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patroniterator\\concreteiteratorconjunto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patroniterator\\concreteiteratorcola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patroniterator\\concreteiteratorcola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patronfactorymethod\\fabricavendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patronfactorymethod\\fabricavendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patronfactorymethod\\fabricapersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patronfactorymethod\\fabricapersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patronfactorymethod\\fabricanumero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patronfactorymethod\\fabricanumero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patronfactorymethod\\fabricadecomparables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patronfactorymethod\\fabricadecomparables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patronfactorymethod\\fabricaclavevalor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patronfactorymethod\\fabricaclavevalor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patronfactorymethod\\fabricaalumnomuyestudioso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patronfactorymethod\\fabricaalumnomuyestudioso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patronfactorymethod\\fabricaalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patronfactorymethod\\fabricaalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patrondecorator\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patrondecorator\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patronadapter\\mdpi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patronadapter\\mdpi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patronadapter\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patronadapter\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patronadapter\\adapterstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patronadapter\\adapterstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\impresiones\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:impresiones\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\comparables\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:comparables\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\comparables\\numero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:comparables\\numero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\comparables\\icomparablex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:comparables\\icomparablex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\comparables\\alumnomuyestudioso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:comparables\\alumnomuyestudioso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\comparables\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:comparables\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\coleccionables\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:coleccionables\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\coleccionables\\icoleccionable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:coleccionables\\icoleccionable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\coleccionables\\diccionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:coleccionables\\diccionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\coleccionables\\conjunto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:coleccionables\\conjunto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\coleccionables\\coleccionmultiple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:coleccionables\\coleccionmultiple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\coleccionables\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:coleccionables\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\coleccionables\\clavevalor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:coleccionables\\clavevalor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\patronobserver\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:patronobserver\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|e:\\archivos\\universidad\\metodologiaprogr\\tp4\\tp4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC763841-5CB5-4AA5-A8D3-AA2FAFC35FFB}|TP4.csproj|solutionrelative:tp4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP2\\NewFolder\\IIterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LecturaDeDatos.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\GeneradorRandom\\LecturaDeDatos.cs",
+              "RelativeDocumentMoniker": "GeneradorRandom\\LecturaDeDatos.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\GeneradorRandom\\LecturaDeDatos.cs",
+              "RelativeToolTip": "GeneradorRandom\\LecturaDeDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T04:58:50.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Generar.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\GeneradorRandom\\Generar.cs",
+              "RelativeDocumentMoniker": "GeneradorRandom\\Generar.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\GeneradorRandom\\Generar.cs",
+              "RelativeToolTip": "GeneradorRandom\\Generar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T00:06:58.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeneradorDeDatosAleatorios.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\GeneradorRandom\\GeneradorDeDatosAleatorios.cs",
+              "RelativeDocumentMoniker": "GeneradorRandom\\GeneradorDeDatosAleatorios.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\GeneradorRandom\\GeneradorDeDatosAleatorios.cs",
+              "RelativeToolTip": "GeneradorRandom\\GeneradorDeDatosAleatorios.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T04:51:38.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronStrategy\\Main.cs",
+              "RelativeDocumentMoniker": "PatronStrategy\\Main.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronStrategy\\Main.cs",
+              "RelativeToolTip": "PatronStrategy\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:25:54.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:24:48.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenerador.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\GeneradorRandom\\IGenerador.cs",
+              "RelativeDocumentMoniker": "GeneradorRandom\\IGenerador.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\GeneradorRandom\\IGenerador.cs",
+              "RelativeToolTip": "GeneradorRandom\\IGenerador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T00:06:06.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DecoradoLegajo.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronDecorator\\DecoradoLegajo.cs",
+              "RelativeDocumentMoniker": "PatronDecorator\\DecoradoLegajo.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronDecorator\\DecoradoLegajo.cs",
+              "RelativeToolTip": "PatronDecorator\\DecoradoLegajo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:47:28.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DecoradoNotasEnLetras.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronDecorator\\DecoradoNotasEnLetras.cs",
+              "RelativeDocumentMoniker": "PatronDecorator\\DecoradoNotasEnLetras.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronDecorator\\DecoradoNotasEnLetras.cs",
+              "RelativeToolTip": "PatronDecorator\\DecoradoNotasEnLetras.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:47:56.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DecoradoRecuadroAsteriscos.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronDecorator\\DecoradoRecuadroAsteriscos.cs",
+              "RelativeDocumentMoniker": "PatronDecorator\\DecoradoRecuadroAsteriscos.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronDecorator\\DecoradoRecuadroAsteriscos.cs",
+              "RelativeToolTip": "PatronDecorator\\DecoradoRecuadroAsteriscos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:46:05.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DecoradoPromocion.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronDecorator\\DecoradoPromocion.cs",
+              "RelativeDocumentMoniker": "PatronDecorator\\DecoradoPromocion.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronDecorator\\DecoradoPromocion.cs",
+              "RelativeToolTip": "PatronDecorator\\DecoradoPromocion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:46:32.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IImprimirDec.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronDecorator\\IImprimirDec.cs",
+              "RelativeDocumentMoniker": "PatronDecorator\\IImprimirDec.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronDecorator\\IImprimirDec.cs",
+              "RelativeToolTip": "PatronDecorator\\IImprimirDec.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:45:30.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AbsDecoradoresAdicionales.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronDecorator\\AbsDecoradoresAdicionales.cs",
+              "RelativeDocumentMoniker": "PatronDecorator\\AbsDecoradoresAdicionales.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronDecorator\\AbsDecoradoresAdicionales.cs",
+              "RelativeToolTip": "PatronDecorator\\AbsDecoradoresAdicionales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:47:05.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IStrategy.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronStrategy\\IStrategy.cs",
+              "RelativeDocumentMoniker": "PatronStrategy\\IStrategy.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronStrategy\\IStrategy.cs",
+              "RelativeToolTip": "PatronStrategy\\IStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T05:06:47.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EstrategiaComparacion.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronStrategy\\EstrategiaComparacion.cs",
+              "RelativeDocumentMoniker": "PatronStrategy\\EstrategiaComparacion.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronStrategy\\EstrategiaComparacion.cs",
+              "RelativeToolTip": "PatronStrategy\\EstrategiaComparacion.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAQwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T05:12:31.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Vendedor.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronObserver\\Vendedor.cs",
+              "RelativeDocumentMoniker": "PatronObserver\\Vendedor.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronObserver\\Vendedor.cs",
+              "RelativeToolTip": "PatronObserver\\Vendedor.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:32:54.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IObservador.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronObserver\\IObservador.cs",
+              "RelativeDocumentMoniker": "PatronObserver\\IObservador.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronObserver\\IObservador.cs",
+              "RelativeToolTip": "PatronObserver\\IObservador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:23:46.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IObservado.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronObserver\\IObservado.cs",
+              "RelativeDocumentMoniker": "PatronObserver\\IObservado.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronObserver\\IObservado.cs",
+              "RelativeToolTip": "PatronObserver\\IObservado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:23:54.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronObserver\\Gerente.cs",
+              "RelativeDocumentMoniker": "PatronObserver\\Gerente.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronObserver\\Gerente.cs",
+              "RelativeToolTip": "PatronObserver\\Gerente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:23:27.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Main.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronIterator\\Main.cs",
+              "RelativeDocumentMoniker": "PatronIterator\\Main.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronIterator\\Main.cs",
+              "RelativeToolTip": "PatronIterator\\Main.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:17:09.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IIterator.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronIterator\\IIterator.cs",
+              "RelativeDocumentMoniker": "PatronIterator\\IIterator.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronIterator\\IIterator.cs",
+              "RelativeToolTip": "PatronIterator\\IIterator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:17:05.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateIterator.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronIterator\\CreateIterator.cs",
+              "RelativeDocumentMoniker": "PatronIterator\\CreateIterator.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronIterator\\CreateIterator.cs",
+              "RelativeToolTip": "PatronIterator\\CreateIterator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:17:00.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ConcreteIteratorPila.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronIterator\\ConcreteIteratorPila.cs",
+              "RelativeDocumentMoniker": "PatronIterator\\ConcreteIteratorPila.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronIterator\\ConcreteIteratorPila.cs",
+              "RelativeToolTip": "PatronIterator\\ConcreteIteratorPila.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:16:52.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ConcreteIteratorDiccionario.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronIterator\\ConcreteIteratorDiccionario.cs",
+              "RelativeDocumentMoniker": "PatronIterator\\ConcreteIteratorDiccionario.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronIterator\\ConcreteIteratorDiccionario.cs",
+              "RelativeToolTip": "PatronIterator\\ConcreteIteratorDiccionario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:16:47.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ConcreteIteratorConjunto.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronIterator\\ConcreteIteratorConjunto.cs",
+              "RelativeDocumentMoniker": "PatronIterator\\ConcreteIteratorConjunto.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronIterator\\ConcreteIteratorConjunto.cs",
+              "RelativeToolTip": "PatronIterator\\ConcreteIteratorConjunto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:16:43.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ConcreteIteratorCola.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronIterator\\ConcreteIteratorCola.cs",
+              "RelativeDocumentMoniker": "PatronIterator\\ConcreteIteratorCola.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronIterator\\ConcreteIteratorCola.cs",
+              "RelativeToolTip": "PatronIterator\\ConcreteIteratorCola.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:16:34.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FabricaVendedor.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronFactoryMethod\\FabricaVendedor.cs",
+              "RelativeDocumentMoniker": "PatronFactoryMethod\\FabricaVendedor.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronFactoryMethod\\FabricaVendedor.cs",
+              "RelativeToolTip": "PatronFactoryMethod\\FabricaVendedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T05:16:31.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FabricaPersona.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronFactoryMethod\\FabricaPersona.cs",
+              "RelativeDocumentMoniker": "PatronFactoryMethod\\FabricaPersona.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronFactoryMethod\\FabricaPersona.cs",
+              "RelativeToolTip": "PatronFactoryMethod\\FabricaPersona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:36:31.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FabricaNumero.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronFactoryMethod\\FabricaNumero.cs",
+              "RelativeDocumentMoniker": "PatronFactoryMethod\\FabricaNumero.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronFactoryMethod\\FabricaNumero.cs",
+              "RelativeToolTip": "PatronFactoryMethod\\FabricaNumero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T05:15:43.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FabricaDeComparables.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronFactoryMethod\\FabricaDeComparables.cs",
+              "RelativeDocumentMoniker": "PatronFactoryMethod\\FabricaDeComparables.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronFactoryMethod\\FabricaDeComparables.cs",
+              "RelativeToolTip": "PatronFactoryMethod\\FabricaDeComparables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T05:09:32.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FabricaClaveValor.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronFactoryMethod\\FabricaClaveValor.cs",
+              "RelativeDocumentMoniker": "PatronFactoryMethod\\FabricaClaveValor.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronFactoryMethod\\FabricaClaveValor.cs",
+              "RelativeToolTip": "PatronFactoryMethod\\FabricaClaveValor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T05:12:43.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FabricaAlumnoMuyEstudioso.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronFactoryMethod\\FabricaAlumnoMuyEstudioso.cs",
+              "RelativeDocumentMoniker": "PatronFactoryMethod\\FabricaAlumnoMuyEstudioso.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronFactoryMethod\\FabricaAlumnoMuyEstudioso.cs",
+              "RelativeToolTip": "PatronFactoryMethod\\FabricaAlumnoMuyEstudioso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:49:21.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FabricaAlumno.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronFactoryMethod\\FabricaAlumno.cs",
+              "RelativeDocumentMoniker": "PatronFactoryMethod\\FabricaAlumno.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronFactoryMethod\\FabricaAlumno.cs",
+              "RelativeToolTip": "PatronFactoryMethod\\FabricaAlumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T05:11:21.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Main.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronDecorator\\Main.cs",
+              "RelativeDocumentMoniker": "PatronDecorator\\Main.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronDecorator\\Main.cs",
+              "RelativeToolTip": "PatronDecorator\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:48:19.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MDPI.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronAdapter\\MDPI.cs",
+              "RelativeDocumentMoniker": "PatronAdapter\\MDPI.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronAdapter\\MDPI.cs",
+              "RelativeToolTip": "PatronAdapter\\MDPI.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwE0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:25:52.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Main.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronAdapter\\Main.cs",
+              "RelativeDocumentMoniker": "PatronAdapter\\Main.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronAdapter\\Main.cs",
+              "RelativeToolTip": "PatronAdapter\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:30:11.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AdapterStudent.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronAdapter\\AdapterStudent.cs",
+              "RelativeDocumentMoniker": "PatronAdapter\\AdapterStudent.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronAdapter\\AdapterStudent.cs",
+              "RelativeToolTip": "PatronAdapter\\AdapterStudent.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAlwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:24:04.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Main.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Impresiones\\Main.cs",
+              "RelativeDocumentMoniker": "Impresiones\\Main.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Impresiones\\Main.cs",
+              "RelativeToolTip": "Impresiones\\Main.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowGIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:07:52.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Comparables\\Persona.cs",
+              "RelativeDocumentMoniker": "Comparables\\Persona.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Comparables\\Persona.cs",
+              "RelativeToolTip": "Comparables\\Persona.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:42:28.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Numero.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Comparables\\Numero.cs",
+              "RelativeDocumentMoniker": "Comparables\\Numero.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Comparables\\Numero.cs",
+              "RelativeToolTip": "Comparables\\Numero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:52:00.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IComparableX.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Comparables\\IComparableX.cs",
+              "RelativeDocumentMoniker": "Comparables\\IComparableX.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Comparables\\IComparableX.cs",
+              "RelativeToolTip": "Comparables\\IComparableX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:31:57.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AlumnoMuyEstudioso.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Comparables\\AlumnoMuyEstudioso.cs",
+              "RelativeDocumentMoniker": "Comparables\\AlumnoMuyEstudioso.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Comparables\\AlumnoMuyEstudioso.cs",
+              "RelativeToolTip": "Comparables\\AlumnoMuyEstudioso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:42:12.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Comparables\\Alumno.cs",
+              "RelativeDocumentMoniker": "Comparables\\Alumno.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Comparables\\Alumno.cs",
+              "RelativeToolTip": "Comparables\\Alumno.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T14:34:06.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Pila.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Coleccionables\\Pila.cs",
+              "RelativeDocumentMoniker": "Coleccionables\\Pila.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Coleccionables\\Pila.cs",
+              "RelativeToolTip": "Coleccionables\\Pila.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwEkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:00:16.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IColeccionable.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Coleccionables\\IColeccionable.cs",
+              "RelativeDocumentMoniker": "Coleccionables\\IColeccionable.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Coleccionables\\IColeccionable.cs",
+              "RelativeToolTip": "Coleccionables\\IColeccionable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:51:52.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Diccionario.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Coleccionables\\Diccionario.cs",
+              "RelativeDocumentMoniker": "Coleccionables\\Diccionario.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Coleccionables\\Diccionario.cs",
+              "RelativeToolTip": "Coleccionables\\Diccionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:05:21.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Conjunto.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Coleccionables\\Conjunto.cs",
+              "RelativeDocumentMoniker": "Coleccionables\\Conjunto.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Coleccionables\\Conjunto.cs",
+              "RelativeToolTip": "Coleccionables\\Conjunto.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwD4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:10:37.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ColeccionMultiple.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Coleccionables\\ColeccionMultiple.cs",
+              "RelativeDocumentMoniker": "Coleccionables\\ColeccionMultiple.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Coleccionables\\ColeccionMultiple.cs",
+              "RelativeToolTip": "Coleccionables\\ColeccionMultiple.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwB8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:49:37.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Cola.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Coleccionables\\Cola.cs",
+              "RelativeDocumentMoniker": "Coleccionables\\Cola.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Coleccionables\\Cola.cs",
+              "RelativeToolTip": "Coleccionables\\Cola.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:00:21.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ClaveValor.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Coleccionables\\ClaveValor.cs",
+              "RelativeDocumentMoniker": "Coleccionables\\ClaveValor.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\Coleccionables\\ClaveValor.cs",
+              "RelativeToolTip": "Coleccionables\\ClaveValor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:46:49.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Main.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronObserver\\Main.cs",
+              "RelativeDocumentMoniker": "PatronObserver\\Main.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\PatronObserver\\Main.cs",
+              "RelativeToolTip": "PatronObserver\\Main.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:24:48.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "TP4.csproj",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\TP4.csproj",
+              "RelativeDocumentMoniker": "TP4.csproj",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP4\\TP4.csproj",
+              "RelativeToolTip": "TP4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-15T13:40:04.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IIterator.cs",
+              "DocumentMoniker": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP2\\NewFolder\\IIterator.cs",
+              "RelativeDocumentMoniker": "..\\TP2\\NewFolder\\IIterator.cs",
+              "ToolTip": "E:\\ARCHIVOS\\UNIVERSIDAD\\MetodologiaPROGR\\TP2\\NewFolder\\IIterator.cs",
+              "RelativeToolTip": "..\\TP2\\NewFolder\\IIterator.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:09:23.728Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

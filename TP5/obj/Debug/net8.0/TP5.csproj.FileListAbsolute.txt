@@ -1,0 +1,14 @@
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP5\bin\Debug\net8.0\TP5.exe
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP5\bin\Debug\net8.0\TP5.deps.json
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP5\bin\Debug\net8.0\TP5.runtimeconfig.json
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP5\bin\Debug\net8.0\TP5.dll
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP5\bin\Debug\net8.0\TP5.pdb
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP5\obj\Debug\net8.0\TP5.GeneratedMSBuildEditorConfig.editorconfig
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP5\obj\Debug\net8.0\TP5.AssemblyInfoInputs.cache
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP5\obj\Debug\net8.0\TP5.AssemblyInfo.cs
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP5\obj\Debug\net8.0\TP5.csproj.CoreCompileInputs.cache
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP5\obj\Debug\net8.0\TP5.dll
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP5\obj\Debug\net8.0\refint\TP5.dll
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP5\obj\Debug\net8.0\TP5.pdb
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP5\obj\Debug\net8.0\TP5.genruntimeconfig.cache
+E:\ARCHIVOS\UNIVERSIDAD\MetodologiaPROGR\TP5\obj\Debug\net8.0\ref\TP5.dll
